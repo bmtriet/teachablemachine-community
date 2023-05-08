@@ -207,7 +207,7 @@ Returns an array with class names as strings.
 
 ### Model - predict
 
-Once you have loaded a model, you can make a classificaiton with a couple of different input options.
+Once you have loaded a model, you can make a classification with a couple of different input options.
 
 This method exists on the model that is loaded from `tmImage.load`.
 
